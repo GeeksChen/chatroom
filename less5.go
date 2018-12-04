@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+//Go语言函数
 func main() {
 	
 	// var num1 int = 6

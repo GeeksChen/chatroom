@@ -2,6 +2,7 @@ package main
 
 // import "fmt"
 
+//Go语言 函数
 func main() {
 
 	constTestFunction()

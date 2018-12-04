@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+//Go语言关系运算符、逻辑运算符、算术运算符
 func main() {
 
 	var v_a int = 10

@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+//Go语言循环语句和条件语句
 func main() {
 	
 	simpleCondition()

@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+//Go语言结构体
 type Student struct {
 	name string
 	age int
@@ -11,10 +12,9 @@ type Student struct {
 
 func main() {
 	
-	
+	createStudentFunction()
 
-	
-
+	readStudentFunction()
 }
 //创建结构体
 func createStudentFunction() {

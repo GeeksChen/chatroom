@@ -2,6 +2,8 @@ package main
 
 import "fmt"
 
+//Go语言变量作用域
+
 //全局变量
 var b int 20
 

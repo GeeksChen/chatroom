@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+//Go语言 数组和指针
 func main() {
 	//数组初始化
 	var arr = [3]int{1,2,5}
