@@ -1,0 +1,123 @@
+events.js:177
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (net.js:1228:14)
+    at listenInCluster (net.js:1276:12)
+    at Server.listen (net.js:1364:7)
+    at Object.<anonymous> (/var/www/im/index.js:9:8)
+    at Module._compile (internal/modules/cjs/loader.js:776:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)
+    at Module.load (internal/modules/cjs/loader.js:643:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:556:12)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:839:10)
+    at internal/main/run_main_module.js:17:11
+Emitted 'error' event at:
+    at emitErrorNT (net.js:1255:8)
+    at processTicksAndRejections (internal/process/task_queues.js:74:11) {
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+events.js:177
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (net.js:1228:14)
+    at listenInCluster (net.js:1276:12)
+    at Server.listen (net.js:1364:7)
+    at Object.<anonymous> (/var/www/im/index.js:9:8)
+    at Module._compile (internal/modules/cjs/loader.js:776:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)
+    at Module.load (internal/modules/cjs/loader.js:643:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:556:12)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:839:10)
+    at internal/main/run_main_module.js:17:11
+Emitted 'error' event at:
+    at emitErrorNT (net.js:1255:8)
+    at processTicksAndRejections (internal/process/task_queues.js:74:11) {
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+events.js:177
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (net.js:1228:14)
+    at listenInCluster (net.js:1276:12)
+    at Server.listen (net.js:1364:7)
+    at Object.<anonymous> (/var/www/im/index.js:9:8)
+    at Module._compile (internal/modules/cjs/loader.js:776:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)
+    at Module.load (internal/modules/cjs/loader.js:643:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:556:12)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:839:10)
+    at internal/main/run_main_module.js:17:11
+Emitted 'error' event at:
+    at emitErrorNT (net.js:1255:8)
+    at processTicksAndRejections (internal/process/task_queues.js:74:11) {
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+events.js:177
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (net.js:1228:14)
+    at listenInCluster (net.js:1276:12)
+    at Server.listen (net.js:1364:7)
+    at Object.<anonymous> (/var/www/im/index.js:9:8)
+    at Module._compile (internal/modules/cjs/loader.js:776:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)
+    at Module.load (internal/modules/cjs/loader.js:643:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:556:12)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:839:10)
+    at internal/main/run_main_module.js:17:11
+Emitted 'error' event at:
+    at emitErrorNT (net.js:1255:8)
+    at processTicksAndRejections (internal/process/task_queues.js:74:11) {
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Server listening at port 8080
+Server listening at port 8080
+events.js:177
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (net.js:1228:14)
+    at listenInCluster (net.js:1276:12)
+    at Server.listen (net.js:1364:7)
+    at Object.<anonymous> (/var/www/im/index.js:9:8)
+    at Module._compile (internal/modules/cjs/loader.js:776:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)
+    at Module.load (internal/modules/cjs/loader.js:643:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:556:12)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:839:10)
+    at internal/main/run_main_module.js:17:11
+Emitted 'error' event at:
+    at emitErrorNT (net.js:1255:8)
+    at processTicksAndRejections (internal/process/task_queues.js:74:11) {
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Server listening at port 8080

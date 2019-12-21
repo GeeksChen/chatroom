@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>「Meetyy-遇见」畅聊圈</title>
+  <link rel="stylesheet" href="style.css">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+</head>
+<body>
+  <ul class="pages">
+    <li class="chat page">
+      <div class="nav">
+        <p>今日话题 (公众号：Meetyy)</p>
+        <p>今年双11你想几个人过？</p>
+      </div>
+      <div class="chatArea">
+        <ul class="messages"></ul>
+
+      </div>
+      <div class="inputArea">
+          <input class="inputMessage" type="text" placeholder="文明聊天,从我做起..."/>
+          <button class="sendMessageBtn">发送</button>
+      </div>
+    </li>
+    <li class="login page">
+      <div class="form">
+        <h3 class="title">昵称</h3>
+        <input class="usernameInput" type="text" maxlength="14" />
+            <button  class="joinButton">进入聊天室</button>
+      </div>
+    </li>
+
+  </ul>
+
+  <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+  <script src="/socket.io/socket.io.js"></script>
+  <script src="/main.js"></script>
+</body>
+</html>
