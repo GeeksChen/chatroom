@@ -1,25 +1,26 @@
+#### 前沿
 
-# Socket.IO Chat
+>Web端主要是集成SocketIO，然后部署到服务器的一个过程，入门的一个渠道。
 
-A simple chat demo for socket.io
+#### 1.Web端匿名聊天主要是功能展示
 
-## How to use
+>进入聊天室
+![进入聊天室.png](https://upload-images.jianshu.io/upload_images/1745735-650e8aaa8cdfab6d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-```
-$ cd socket.io
-$ npm install
-$ cd examples/chat
-$ npm install
-$ npm start
-```
+>聊天室
+![聊天室.png](https://upload-images.jianshu.io/upload_images/1745735-330e13b5d41f1231.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-And point your browser to `http://localhost:3000`. Optionally, specify
-a port by supplying the `PORT` env variable.
+#### 2.体验专区
 
-## Features
+[http://im.meetyy.cn/](http://im.meetyy.cn/)
 
-- Multiple users can join a chat room by each entering a unique username
-on website load.
-- Users can type chat messages to the chat room.
-- A notification is sent to all users when a user joins or leaves
-the chatroom.
+>不管大佬们关不关注公众号，我都会放上本章的[Demo](https://github.com/GeeksChen/chatroom)
+
+个人作品1：（匿名聊天）
+[http://im.meetyy.cn/](http://im.meetyy.cn/)
+
+个人作品2：（单身交友）
+![公众号Meetyy](https://upload-images.jianshu.io/upload_images/1745735-9ba29c862a0268be.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+
