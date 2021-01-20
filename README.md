@@ -19,8 +19,4 @@
 个人作品1：（匿名聊天）
 [http://im.meetyy.cn/](http://im.meetyy.cn/)
 
-个人作品2：（单身交友）
-![公众号Meetyy](https://upload-images.jianshu.io/upload_images/1745735-9ba29c862a0268be.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-
 
